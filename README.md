@@ -1,4 +1,4 @@
-# PBL-Boletim-Covid-19
+# Barbearia Alura
 
 # O que é?
 Projeto desenvolvido no curso sobre HTML e CSS da Alura.
