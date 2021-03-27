@@ -7,4 +7,4 @@ Projeto desenvolvido no curso sobre HTML e CSS da Alura.
 
 Colocar em prática o conhecimento adquirido sobre HTML e CSS e para construir páginas, por exemplo Home, Produtos e Contato.
 
-Link: https://flamboyant-pare-a05023.netlify.app/
+Link: https://brsilvacardoso.github.io/barbearia-alura-bruno/
